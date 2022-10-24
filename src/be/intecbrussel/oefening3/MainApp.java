@@ -10,10 +10,6 @@ public class MainApp {
         postalNumber.setInput("12312");
         postalNumber.setInput("9000");
 
-
-
-
-
     }
 
     public static void info(PostalNumber postalNumber){
